@@ -1,0 +1,49 @@
+{
+  "cycleLength": 600,
+  "lights": [
+    {
+      "name": "(N,S)",
+      "status": "Red",
+      "program": [
+        {
+          "time": 0,
+          "status": "Red"
+        },
+        {
+          "time": 3,
+          "status": "Green"
+        },
+        {
+          "time": 270,
+          "status": "Yellow"
+        },
+        {
+          "time": 300,
+          "status": "Red"
+        }
+      ]
+    },
+    {
+      "name": "(E, W)",
+      "status": "Red",
+      "program": [
+        {
+          "time": 0,
+          "status": "Red"
+        },
+        {
+          "time": 303,
+          "status": "Green"
+        },
+        {
+          "time": 570,
+          "status": "Yellow"
+        },
+        {
+          "time": 600,
+          "status": "Red"
+        }
+      ]
+    }
+  ]
+}
