@@ -1,19 +1,19 @@
-Time    0:   (N,S):    Red   (E, W):    Red
-Time    3:   (N,S):  Green   (E, W):    Red
-Time  270:   (N,S): Yellow   (E, W):    Red
-Time  300:   (N,S):    Red   (E, W):    Red
-Time  303:   (N,S):    Red   (E, W):  Green
-Time  570:   (N,S):    Red   (E, W): Yellow
-Time  600:   (N,S):    Red   (E, W):    Red
-Time  603:   (N,S):  Green   (E, W):    Red
-Time  870:   (N,S): Yellow   (E, W):    Red
-Time  900:   (N,S):    Red   (E, W):    Red
-Time  903:   (N,S):    Red   (E, W):  Green
-Time 1170:   (N,S):    Red   (E, W): Yellow
-Time 1200:   (N,S):    Red   (E, W):    Red
-Time 1203:   (N,S):  Green   (E, W):    Red
-Time 1470:   (N,S): Yellow   (E, W):    Red
-Time 1500:   (N,S):    Red   (E, W):    Red
-Time 1503:   (N,S):    Red   (E, W):  Green
-Time 1770:   (N,S):    Red   (E, W): Yellow
-Time 1800:   (N,S):    Red   (E, W):    Red
+Time    0s:   (N,S):    Red   (E,W):    Red
+Time    3s:   (N,S):  Green   (E,W):    Red
+Time  270s:   (N,S): Yellow   (E,W):    Red
+Time  300s:   (N,S):    Red   (E,W):    Red
+Time  303s:   (N,S):    Red   (E,W):  Green
+Time  570s:   (N,S):    Red   (E,W): Yellow
+Time  600s:   (N,S):    Red   (E,W):    Red
+Time  603s:   (N,S):  Green   (E,W):    Red
+Time  870s:   (N,S): Yellow   (E,W):    Red
+Time  900s:   (N,S):    Red   (E,W):    Red
+Time  903s:   (N,S):    Red   (E,W):  Green
+Time 1170s:   (N,S):    Red   (E,W): Yellow
+Time 1200s:   (N,S):    Red   (E,W):    Red
+Time 1203s:   (N,S):  Green   (E,W):    Red
+Time 1470s:   (N,S): Yellow   (E,W):    Red
+Time 1500s:   (N,S):    Red   (E,W):    Red
+Time 1503s:   (N,S):    Red   (E,W):  Green
+Time 1770s:   (N,S):    Red   (E,W): Yellow
+Time 1800s:   (N,S):    Red   (E,W):    Red

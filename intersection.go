@@ -18,7 +18,7 @@ func (in *Intersection) Tick() (changed bool) {
 }
 
 func (in *Intersection) String() (result string) {
-  result = fmt.Sprintf("Time %4d:  ", in.Time)
+  result = fmt.Sprintf("Time %4ds:  ", in.Time)
   for _, light := range in.Lights {
     result += light.String()
   }
